@@ -58,7 +58,7 @@ body {
   background-color: var(--color-primary);
   border-radius: 1.2rem;
   border: 3px solid hsla(191, 31%, 42%, 1); 
-
+}
 header {
   display: flex;
 align-items:flex-end;
